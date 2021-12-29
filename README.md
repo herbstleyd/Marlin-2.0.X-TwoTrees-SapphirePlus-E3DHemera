@@ -11,3 +11,5 @@ I made following changes for the E3D Hemera Setup:
 - Linear Pressure Control is deactivated (Configuration_adv.h)
 ## Help
 - For support open an issue or join my Discord and feel free to post your question. [Discord - 3D-Maker](https://discord.gg/qYCYCxk86c)
+## Think!
+- Its not my fault if your printer burns, crash or explodes in a big fat fireball! THINK before you do something rashly. This Firmware is special for the Sapphire Plus with an E3D Hemera. If you want some special changes to this firmware, just ask on Discord.
