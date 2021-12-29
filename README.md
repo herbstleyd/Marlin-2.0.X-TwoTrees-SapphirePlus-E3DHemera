@@ -9,3 +9,5 @@ I made following changes for the E3D Hemera Setup:
 - Thermistor is set to "5" (ATC Semitec 104GT-2/104NT-4-R025H42G - Configuration.h) - (For E3D Hemera)
 - Heater_0_maxtemp set to 300 (Configuration.h) - (For E3D Hemera)
 - Linear Pressure Control is deactivated (Configuration_adv.h)
+## Help
+- For support open an issue or join my Discord and feel free to post your question. [Discord - 3D-Maker](https://discord.gg/qYCYCxk86c)
