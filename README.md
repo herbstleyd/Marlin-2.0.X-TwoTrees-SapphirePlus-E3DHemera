@@ -1,5 +1,5 @@
 # Marlin-2.0.X-TwoTrees-SapphirePlus-E3DHemera
-One functional Marlin 2.0.X Firmware for the TwoTrees Sapphire Plus with E3D Hemera Direct Extruder
+A functional Marlin 2.0.X Firmware for the TwoTrees Sapphire Plus with E3D Hemera Direct Extruder
 
 **This Marlin Firmware works for the TwoTrees Sapphire Plus (V3: MKS Robin Nano V1.2 with TMC2225 Stepperdrivers on all 5 Ports, one Z-Endstop, two Z-Motors with Belt-Sync and 180 degree rotated display.**
 
